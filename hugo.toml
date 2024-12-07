@@ -1,0 +1,7 @@
+baseURL = "https://example.org/"
+languageCode = "ja"
+title = "tkhsyuk_メモ"
+theme = "beautifulhugo"
+
+[params]
+  customCSS = ["css/custom.css"]
