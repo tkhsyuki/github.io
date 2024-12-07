@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tkhsyuk_メモ</title>
-    <link>https://tkhsyuki.github.io/github.io/</link>
+    <link>https://tkhsyuki.com/</link>
     <description>Recent content on tkhsyuk_メモ</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 Dec 2024 12:50:21 +0900</lastBuildDate>
-    <atom:link href="https://tkhsyuki.github.io/github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tkhsyuki.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://tkhsyuki.github.io/github.io/posts/first-post/</link>
+      <link>https://tkhsyuki.com/posts/first-post/</link>
       <pubDate>Sat, 07 Dec 2024 12:50:21 +0900</pubDate>
-      <guid>https://tkhsyuki.github.io/github.io/posts/first-post/</guid>
+      <guid>https://tkhsyuki.com/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;テスト投稿&#34;&gt;テスト投稿&lt;/h1&gt;&#xA;&lt;p&gt;こんにちは！これは私の &lt;strong&gt;初めてのブログ記事&lt;/strong&gt; のテスト投稿です&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;&#xA;&lt;p&gt;testtesttest&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://tkhsyuki.github.io/github.io/posts/second-post/</link>
+      <link>https://tkhsyuki.com/posts/second-post/</link>
       <pubDate>Sat, 07 Dec 2024 12:50:21 +0900</pubDate>
-      <guid>https://tkhsyuki.github.io/github.io/posts/second-post/</guid>
+      <guid>https://tkhsyuki.com/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;テスト投稿&#34;&gt;テスト投稿&lt;/h1&gt;&#xA;&lt;p&gt;こんにちは！これは私の &lt;strong&gt;初めてのブログ記事&lt;/strong&gt; のテスト投稿です&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;&#xA;&lt;p&gt;testtesttest&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

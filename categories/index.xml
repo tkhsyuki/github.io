@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on tkhsyuk_メモ</title>
-    <link>https://tkhsyuki.github.io/github.io/categories/</link>
+    <link>https://tkhsyuki.com/categories/</link>
     <description>Recent content in Categories on tkhsyuk_メモ</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 Dec 2024 12:50:21 +0900</lastBuildDate>
-    <atom:link href="https://tkhsyuki.github.io/github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tkhsyuki.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログ</title>
-      <link>https://tkhsyuki.github.io/github.io/categories/%E3%83%96%E3%83%AD%E3%82%B0/</link>
+      <link>https://tkhsyuki.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/</link>
       <pubDate>Sat, 07 Dec 2024 12:50:21 +0900</pubDate>
-      <guid>https://tkhsyuki.github.io/github.io/categories/%E3%83%96%E3%83%AD%E3%82%B0/</guid>
+      <guid>https://tkhsyuki.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/</guid>
       <description></description>
     </item>
   </channel>
