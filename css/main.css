@@ -9,6 +9,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  padding: 40px;
 }
 @media (prefers-color-scheme: dark) {
   body {
