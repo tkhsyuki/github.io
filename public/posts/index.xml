@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2024 18:45:58 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20241222</title>
+      <link>http://localhost:1313/posts/20241222/</link>
+      <pubDate>Sun, 22 Dec 2024 18:45:58 +0900</pubDate>
+      <guid>http://localhost:1313/posts/20241222/</guid>
+      <description>&lt;p&gt;#このブログについて&lt;/p&gt;&#xA;&lt;p&gt;ブログを始めた。&#xA;理由は以下3つ&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;なんか文章を書きたい&lt;/li&gt;&#xA;&lt;li&gt;年老いたときにあのときはこうだったなぁと見返せるものを文章で残したい&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;##なんでブログなの？&lt;/p&gt;&#xA;&lt;p&gt;わかりません！&#xA;Hugoで作成して、GitHubPagesを使ったweb公開がやってみたかったです&lt;/p&gt;&#xA;&lt;p&gt;・Hugo&#xA;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;・GitHub Pages&#xA;&lt;a href=&#34;https://docs.github.com/ja/pages/getting-started-with-github-pages/creating-a-github-pages-site&#34;&gt;https://docs.github.com/ja/pages/getting-started-with-github-pages/creating-a-github-pages-site&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;##最後に&lt;/p&gt;&#xA;&lt;p&gt;三日坊主ですぐに飽きる可能性がある。&#xA;1年間続けられない確率90%&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
