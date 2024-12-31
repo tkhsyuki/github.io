@@ -1,0 +1,12 @@
+baseURL = 'https://tkhsyuk.com/'
+languageCode = 'ja'
+title = 'tkhsyuk.txt'
+theme = "stack"
+
+[params]
+  avatar = { enabled = true, local = true, src = "img/avatar.png" }
+
+
+
+[taxonomies]
+  category = "categories"
