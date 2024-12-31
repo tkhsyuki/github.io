@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on tkhsyuk.txt</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://tkhsyuk.com/categories/</link>
         <description>Recent content in Categories on tkhsyuk.txt</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Mon, 30 Dec 2024 13:55:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Dec 2024 13:55:22 +0900</lastBuildDate><atom:link href="https://tkhsyuk.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog</title>
-        <link>http://localhost:1313/categories/blog/</link>
+        <link>https://tkhsyuk.com/categories/blog/</link>
         <pubDate>Mon, 30 Dec 2024 13:55:22 +0900</pubDate>
         
-        <guid>http://localhost:1313/categories/blog/</guid>
+        <guid>https://tkhsyuk.com/categories/blog/</guid>
         <description></description>
         </item>
         
